@@ -19,23 +19,30 @@ Platform: Windows 10.
 1. Clone the Repository:
 
    git clone https://github.com/juheemakwana/InfluencerPartnershipDB.git
+
    cd InfluencerPartnershipDB
 
 3. Set Up the Database:
 
    Install PostgreSQL and PgAdmin4.
+
    Execute the DDL scripts provided in the /scripts directory to create the database schema.
 
 5. Populate the Database:
+
    Use the DML scripts to insert sample data into the database.
 
-6. Run Queries:
+7. Run Queries:
+
    Use the SQL scripts for testing and analyzing the system’s functionality.
 
 # How to Use
 Influencer Management: Add and manage influencers, track their metrics, and analyze their impact.
+
 Partnership contract Tracking: Store contracts details, products, and performance metrics.
+
 Reporting: Generate insights using pre-defined queries and views for campaign effectiveness.  
 
-Acknowledgments
+# Acknowledgments
+
 Course: BUAN 6320 – Database Foundations for Business Analytics, JSOM, UTD.
