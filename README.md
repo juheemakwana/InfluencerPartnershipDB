@@ -17,17 +17,19 @@ Platform: Windows 10.
 
 # Setup Instructions
 1. Clone the Repository:
+
    git clone https://github.com/juheemakwana/InfluencerPartnershipDB.git
    cd InfluencerPartnershipDB
 
-2. Set Up the Database:
+3. Set Up the Database:
+
    Install PostgreSQL and PgAdmin4.
    Execute the DDL scripts provided in the /scripts directory to create the database schema.
 
-3. Populate the Database:
+5. Populate the Database:
    Use the DML scripts to insert sample data into the database.
 
-4. Run Queries:
+6. Run Queries:
    Use the SQL scripts for testing and analyzing the system’s functionality.
 
 # How to Use
