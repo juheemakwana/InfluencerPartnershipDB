@@ -11,8 +11,11 @@ Support for advanced queries and data analysis.
 
 # Technologies Used
 Database: PostgreSQL with PgAdmin4.
+
 Modeling Tool: ER-Assistant.
+
 Programming: SQL (DDL and DML scripts).
+
 Platform: Windows 10.
 
 # Setup Instructions
